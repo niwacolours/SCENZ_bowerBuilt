@@ -1,0 +1,20 @@
+{
+  "style": "vertical",
+  "layerState": {
+    "SCENZ_Area_of_Interest_Polygons_137": {
+      "selected": true
+    },
+    "OceanParameters_All_ref_2161": {
+      "selected": true
+    },
+    "OceanParameters_All_ref_2161_2220": {
+      "selected": true
+    }
+  },
+  "layer": "OceanParameters_All_ref_2161",
+  "isZoom": false,
+  "handleColor": "#dadada",
+  "layerMode": "single",
+  "defaultLayers": [],
+  "invertPlacement": false
+}

@@ -1,0 +1,9 @@
+{
+  "serviceURL": "https://gis.niwa.co.nz/arcgis/rest/services/EnterprisePrintingService/GPServer/Export%20Web%20Map",
+  "defaultTitle": "SCENZ Web Map Print",
+  "defaultAuthor": "Web AppBuilder for ArcGIS",
+  "defaultCopyright": "",
+  "defaultFormat": "PDF",
+  "defaultLayout": "02_PrintTemplateA4_Landscape",
+  "copyrightEditable": true
+}

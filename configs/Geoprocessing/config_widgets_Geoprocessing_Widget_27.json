@@ -1,0 +1,149 @@
+{
+  "name": "SCENZExportRasterPixelsFromCRF2tableModel2CSV",
+  "displayName": "SCENZExportRasterPixelsFromCRF2tableModel2CSV",
+  "description": "FC, Export, SCENZ",
+  "category": "",
+  "helpUrl": "https://gis.niwa.co.nz/raster/rest/directories/arcgisoutput/SCENZ/SCENZ_pixel_SelectAndExportPixels2CSV_GPServer/SCENZ_SCENZ_pixel_SelectAndExportPixels2CSV/SCENZExportRasterPixelsFromCRF2tableModel2CSV.htm",
+  "serverInfo": {
+    "currentVersion": 10.81,
+    "url": "https://gis.niwa.co.nz/raster/rest/services/SCENZ/SCENZ_pixel_SelectAndExportPixels2CSV/GPServer/",
+    "hasResultMapServer": false,
+    "resultMapServerName": "",
+    "supportsUpload": false
+  },
+  "useResultMapServer": false,
+  "taskUrl": "https://gis.niwa.co.nz/raster/rest/services/SCENZ/SCENZ_pixel_SelectAndExportPixels2CSV/GPServer/SCENZExportRasterPixelsFromCRF2tableModel2CSV",
+  "isSynchronous": false,
+  "inputParams": [
+    {
+      "name": "Polygons",
+      "dataType": "GPFeatureRecordSetLayer",
+      "description": "Selection Input Area of Interest",
+      "defaultValue": {
+        "displayFieldName": "",
+        "hasZ": true,
+        "geometryType": "esriGeometryPolygon",
+        "spatialReference": {
+          "wkid": 2193,
+          "latestWkid": 2193
+        },
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID"
+          },
+          {
+            "name": "Name",
+            "type": "esriFieldTypeString",
+            "alias": "Name",
+            "length": 255
+          },
+          {
+            "name": "Text",
+            "type": "esriFieldTypeString",
+            "alias": "Text",
+            "length": 255
+          },
+          {
+            "name": "IntegerValue",
+            "type": "esriFieldTypeInteger",
+            "alias": "IntegerValue"
+          },
+          {
+            "name": "DoubleValue",
+            "type": "esriFieldTypeDouble",
+            "alias": "DoubleValue"
+          },
+          {
+            "name": "DateTime",
+            "type": "esriFieldTypeDate",
+            "alias": "DateTime",
+            "length": 8
+          },
+          {
+            "name": "Shape_Length",
+            "type": "esriFieldTypeDouble",
+            "alias": "Shape_Length"
+          },
+          {
+            "name": "Shape_Area",
+            "type": "esriFieldTypeDouble",
+            "alias": "Shape_Area"
+          }
+        ],
+        "features": [],
+        "exceededTransferLimit": false
+      },
+      "category": "",
+      "label": "Input Polygons",
+      "visible": true,
+      "required": false,
+      "featureSetMode": "draw",
+      "tooltip": "Delineate Input Polygons",
+      "symbol": {
+        "color": [
+          155,
+          187,
+          89,
+          128
+        ],
+        "outline": {
+          "color": [
+            115,
+            140,
+            61,
+            255
+          ],
+          "width": 1.5,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      }
+    },
+    {
+      "name": "Process_as_multidimensional",
+      "dataType": "GPBoolean",
+      "description": "Boolean",
+      "defaultValue": true,
+      "category": "",
+      "label": "Process as multidimensional",
+      "visible": true,
+      "required": false,
+      "tooltip": "Process as multidimensional"
+    },
+    {
+      "name": "esri_out_feature_service_name",
+      "dataType": "GPString",
+      "description": "The name of the optional feature service to create on the federated server containing the result of this tool. If no name is specified an output feature service will not be created.",
+      "defaultValue": null,
+      "category": "",
+      "label": "Output Feature Service Name",
+      "visible": false,
+      "required": false,
+      "tooltip": "Output Feature Service Name"
+    }
+  ],
+  "outputParams": [
+    {
+      "name": "Name_for_CSV_file",
+      "dataType": "GPDataFile",
+      "description": "",
+      "defaultValue": null,
+      "category": "",
+      "label": "Output CSV file",
+      "visible": true,
+      "required": false,
+      "tooltip": "Output file in CSV format",
+      "ignore": false,
+      "layerInvisible": true
+    }
+  ],
+  "shareResults": false,
+  "layerOrder": [
+    "Polygons"
+  ],
+  "showExportButton": true
+}

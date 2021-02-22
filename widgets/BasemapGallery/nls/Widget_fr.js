@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/BasemapGallery/nls/strings":{_widgetLabel:"Biblioth\u00e8que de fonds de carte",chooseWebScene:"Choisir la sc\u00e8ne web",chooseWebMap:"Choisir la carte web",_localized:{}}});

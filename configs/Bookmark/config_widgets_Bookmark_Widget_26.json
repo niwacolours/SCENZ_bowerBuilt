@@ -1,0 +1,184 @@
+{
+  "bookmarks2D": [
+    {
+      "displayName": "SST New Zealand",
+      "name": "SST New Zealand",
+      "extent": {
+        "xmin": 258262.0124401605,
+        "ymin": 4729906.948879061,
+        "xmax": 2899925.7099751495,
+        "ymax": 6197497.891954055,
+        "spatialReference": {
+          "wkid": 2193,
+          "latestWkid": 2193
+        }
+      },
+      "thumbnail": "/webappbuilder/apps/11/widgets/Bookmark/images/thumbnail_default.png",
+      "isInWebmap": false,
+      "isSaveLayers": true,
+      "layerOptions": {
+        "SCENZ_Area_of_Interest_Polygons_137": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_3945_1421": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_3945": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_2220_6398": {
+          "selected": true
+        },
+        "OceanParameters_All_ref_2161_2220": {
+          "selected": true
+        },
+        "OceanParameters_All_ref_2161_7804_205": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_7804": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_3711_2360": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_3711": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_7932_2665": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_7932": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161": {
+          "selected": false
+        }
+      },
+      "_uID": 6
+    },
+    {
+      "displayName": "SST North Island",
+      "name": "SST North Island",
+      "extent": {
+        "xmin": 1058099.0764160324,
+        "ymin": 5385430.903452558,
+        "xmax": 2378930.925183527,
+        "ymax": 6119226.374990055,
+        "spatialReference": {
+          "wkid": 2193,
+          "latestWkid": 2193
+        }
+      },
+      "thumbnail": "/webappbuilder/apps/11/widgets/Bookmark/images/thumbnail_default.png",
+      "isInWebmap": false,
+      "isSaveLayers": true,
+      "layerOptions": {
+        "SCENZ_Area_of_Interest_Polygons_137": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_3945_1421": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_3945": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_2220_6398": {
+          "selected": true
+        },
+        "OceanParameters_All_ref_2161_2220": {
+          "selected": true
+        },
+        "OceanParameters_All_ref_2161_7804_205": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_7804": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_3711_2360": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_3711": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_7932_2665": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_7932": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161": {
+          "selected": false
+        }
+      },
+      "_uID": 7
+    },
+    {
+      "displayName": "SST South Island",
+      "name": "SST South Island",
+      "extent": {
+        "xmin": 789040.7368522834,
+        "ymin": 4800840.511127687,
+        "xmax": 2109872.585619778,
+        "ymax": 5534635.982665184,
+        "spatialReference": {
+          "wkid": 2193,
+          "latestWkid": 2193
+        }
+      },
+      "thumbnail": "/webappbuilder/apps/11/widgets/Bookmark/images/thumbnail_default.png",
+      "isInWebmap": false,
+      "isSaveLayers": true,
+      "layerOptions": {
+        "SCENZ_Area_of_Interest_Polygons_137": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_3945_1421": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_3945": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_2220_6398": {
+          "selected": true
+        },
+        "OceanParameters_All_ref_2161_2220": {
+          "selected": true
+        },
+        "OceanParameters_All_ref_2161_7804_205": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_7804": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_3711_2360": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_3711": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_7932_2665": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161_7932": {
+          "selected": false
+        },
+        "OceanParameters_All_ref_2161": {
+          "selected": false
+        }
+      },
+      "_uID": 8
+    }
+  ],
+  "bookmarks3D": [],
+  "layout": {
+    "cards": true,
+    "list": true,
+    "defaultMode": "cards"
+  },
+  "editable": true,
+  "syncMode": {
+    "webmap": true,
+    "custom": true
+  },
+  "isSaveLayerVisibility": true
+}

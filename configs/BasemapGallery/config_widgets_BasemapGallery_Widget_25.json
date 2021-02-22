@@ -1,0 +1,72 @@
+{
+  "basemapGallery": {
+    "mode": 2,
+    "basemaps": [
+      {
+        "title": "NZ Dark Canvas",
+        "layers": [
+          {
+            "url": "https://services.arcgisonline.co.nz/arcgis/rest/services/Canvas/Dark/MapServer"
+          }
+        ],
+        "spatialReference": {
+          "wkid": 2193,
+          "latestWkid": 2193
+        },
+        "thumbnailUrl": "${appPath}/configs/BasemapGallery/thumbnailUrl1581462846512.png"
+      },
+      {
+        "title": "NZ Light Canvas",
+        "layers": [
+          {
+            "url": "https://services.arcgisonline.co.nz/arcgis/rest/services/Canvas/Light/MapServer"
+          }
+        ],
+        "spatialReference": {
+          "wkid": 2193,
+          "latestWkid": 2193
+        },
+        "thumbnailUrl": "${appPath}/configs/BasemapGallery/thumbnailUrl1581462846521.png"
+      },
+      {
+        "title": "NZ Imagery",
+        "layers": [
+          {
+            "url": "https://services.arcgisonline.co.nz/arcgis/rest/services/Imagery/newzealand/MapServer"
+          }
+        ],
+        "spatialReference": {
+          "wkid": 2193,
+          "latestWkid": 2193
+        },
+        "thumbnailUrl": "${appPath}/configs/BasemapGallery/thumbnailUrl1581462846521.png"
+      },
+      {
+        "title": "NZ Generic",
+        "layers": [
+          {
+            "url": "https://services.arcgisonline.co.nz/arcgis/rest/services/Generic/newzealand/MapServer"
+          }
+        ],
+        "spatialReference": {
+          "wkid": 2193,
+          "latestWkid": 2193
+        },
+        "thumbnailUrl": "${appPath}/configs/BasemapGallery/thumbnailUrl1581462846522.png"
+      },
+      {
+        "title": "NZ Topo LINZ ",
+        "layers": [
+          {
+            "url": "https://services.arcgisonline.co.nz/arcgis/rest/services/LINZ/geotiffs/MapServer"
+          }
+        ],
+        "spatialReference": {
+          "wkid": 2193,
+          "latestWkid": 2193
+        },
+        "thumbnailUrl": "${appPath}/configs/BasemapGallery/thumbnailUrl1581462846522.png"
+      }
+    ]
+  }
+}

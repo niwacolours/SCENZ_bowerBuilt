@@ -1,0 +1,66 @@
+{
+  "editor": {
+    "enableUndoRedo": true,
+    "toolbarVisible": true,
+    "toolbarOptions": {
+      "mergeVisible": false,
+      "cutVisible": false,
+      "reshapeVisible": false
+    },
+    "honorSettingOfWebmap": true,
+    "layerInfos": [
+      {
+        "featureLayer": {
+          "id": "SCENZ_Area_of_Interest_Polygons_137"
+        },
+        "disableGeometryUpdate": false,
+        "allowCreate": true,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "objectid",
+            "label": "OBJECTID",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "globalid",
+            "label": "globalid",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "created_user",
+            "label": "created_user",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "created_date",
+            "label": "created_date",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "last_edited_user",
+            "label": "last_edited_user",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "last_edited_date",
+            "label": "last_edited_date",
+            "isEditable": false,
+            "visible": false
+          }
+        ]
+      }
+    ],
+    "useFilterEdit": false,
+    "autoApplyEditWhenGeometryIsMoved": true,
+    "snappingTolerance": 15,
+    "popupTolerance": 5,
+    "stickyMoveTolerance": 0,
+    "usingSaveButton": false
+  }
+}

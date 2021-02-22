@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/BasemapGallery/nls/strings":{_widgetLabel:"Galeria map bazowych",chooseWebScene:"Wybierz scen\u0119 internetow\u0105",chooseWebMap:"Wybierz map\u0119 internetow\u0105",_localized:{}}});

@@ -1,0 +1,20 @@
+{
+    "gis.niwa.co.nz/raster/rest/services/SCENZ/OceanParameters_All_NZTM_Ref_PROD/ImageServer": {
+      "hasOverlap": true,
+      "hasNDVI": false,
+      "ndvi": false,
+      "ndmi": false,
+      "urban": false,
+      "yAxisLabel": "Value of selected Parameter",
+      "bandCount": 1,
+      "bandNames": [
+        "Ocean Parameter"
+      ],
+      "field": "StdTime",
+      "category": "Category",
+      "nirIndex": null,
+      "redIndex": null,
+      "swirIndex": null,
+      "title": "Ocean Parameters"
+    }
+  }

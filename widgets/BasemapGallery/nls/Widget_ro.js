@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/BasemapGallery/nls/strings":{_widgetLabel:"Galerie de h\u0103r\u0163i fundal",chooseWebScene:"Selectare scen\u0103 web",chooseWebMap:"Alegere hart\u0103 web",_localized:{}}});

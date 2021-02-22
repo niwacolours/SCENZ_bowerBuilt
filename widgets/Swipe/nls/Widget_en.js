@@ -1,0 +1,3 @@
+//>>built
+define({"dojox/form/nls/CheckedMultiSelect":{invalidMessage:"At least one item must be selected.",multiSelectLabelText:"{num} item(s) selected",_localized:{}},"widgets/Swipe/nls/strings":{_widgetLabel:"Swipe",swipeText:" Select the layer(s) you want to swipe",spyglassText:"Select the layer to appear within the spyglass",disableTips:"Click to disable the swipe tool",enableTips:"Click to enable the swipe tool",defaultLayerHolder:"Click to select",selectLayers:"Select layers",nItemsSelected:"layer(s) selected",
+showList:"show layers list",hideList:"hide layers list",_localized:{}}});

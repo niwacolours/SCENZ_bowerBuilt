@@ -1,0 +1,50 @@
+{
+  "display": "both",
+  "zoomLevel": 1,
+  "searchExtent": 75,
+  "autoRefresh": false,
+  "listImagesSeparate": false,
+  "OceanParameters_All_ref_2161_2220": {
+    "imageField": "StdTime",
+    "objectID": "OBJECTID",
+    "category": "Category",
+    "title": "SST"
+  },
+  "OceanParameters_All_ref_2161_3945": {
+    "imageField": "StdTime",
+    "objectID": "OBJECTID",
+    "category": "Category",
+    "title": "SSTg"
+  },
+  "OceanParameters_All_ref_2161_2220_6398": {
+    "imageField": "StdTime",
+    "objectID": "OBJECTID",
+    "category": "Category",
+    "title": "SST (small scales)"
+  },
+  "OceanParameters_All_ref_2161": {
+    "imageField": "StdTime",
+    "objectID": "OBJECTID",
+    "category": "Category",
+    "title": "All Parameters"
+  },
+  "OceanParameters_All_ref_2161_7932": {
+    "imageField": "StdTime",
+    "objectID": "OBJECTID",
+    "category": "Category",
+    "title": "HVIS"
+  },
+  "OceanParameters_All_ref_2161_3711": {
+    "imageField": "StdTime",
+    "objectID": "OBJECTID",
+    "category": "Category",
+    "title": "KPAR"
+  },
+  "OceanParameters_All_ref_2161_7804": {
+    "imageField": "StdTime",
+    "objectID": "OBJECTID",
+    "category": "Category",
+    "title": "CHL"
+  }
+  
+}

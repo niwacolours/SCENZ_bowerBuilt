@@ -1,0 +1,2 @@
+//>>built
+define({"themes/FoldableTheme/widgets/HeaderController/nls/strings":{_widgetLabel:"Header Controller",signin:"Sign in",signout:"Sign out",about:"About",signInTo:"Sign in to",cantSignOutTip:"This function is N/A in preview mode.",more:"more",_localized:{}}});

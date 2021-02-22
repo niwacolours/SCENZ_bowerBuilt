@@ -1,0 +1,125 @@
+{
+  "name": "Model42",
+  "displayName": "7 Composite Model Lines Rasterize Sample R Script",
+  "description": "User can draw a line  on screen or determine a line feature class which will be used for exporting pixel values along that line from the multidimensional raster dataset. Output will be used to create a boxplot chart for all parameters, using an R Script",
+  "category": "",
+  "helpUrl": "https://gistest.niwa.co.nz/rasteranalytics/rest/directories/arcgisoutput/SCENZ/Line_Pixel_Charting_from_Multidim_Raster_GPServer/SCENZ_Line_Pixel_Charting_from_Multidim_Raster/Model42.htm",
+  "serverInfo": {
+    "currentVersion": 10.71,
+    "url": "https://gistest.niwa.co.nz/rasteranalytics/rest/services/SCENZ/Line_Pixel_Charting_from_Multidim_Raster/GPServer/",
+    "hasResultMapServer": true,
+    "resultMapServerName": "SCENZ/Line_Pixel_Charting_from_Multidim_Raster",
+    "supportsUpload": true,
+    "maxUploadFileSize": 2000
+  },
+  "useResultMapServer": false,
+  "taskUrl": "https://gistest.niwa.co.nz/rasteranalytics/rest/services/SCENZ/Line_Pixel_Charting_from_Multidim_Raster/GPServer/7 Composite Model Lines Rasterize Sample R Script",
+  "isSynchronous": false,
+  "inputParams": [
+    {
+      "name": "Sample_Input_location_raster_or_point_features__Lines___2_",
+      "dataType": "GPFeatureRecordSetLayer",
+      "description": "User defined line input (where the sampling will be done to extract pixel values for the boxplot chart)",
+      "defaultValue": {
+        "displayFieldName": "",
+        "hasZ": true,
+        "geometryType": "esriGeometryPolyline",
+        "spatialReference": {
+          "wkid": 2193,
+          "latestWkid": 2193
+        },
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID"
+          },
+          {
+            "name": "Name",
+            "type": "esriFieldTypeString",
+            "alias": "Name",
+            "length": 255
+          },
+          {
+            "name": "Text",
+            "type": "esriFieldTypeString",
+            "alias": "Text",
+            "length": 255
+          },
+          {
+            "name": "IntegerValue",
+            "type": "esriFieldTypeInteger",
+            "alias": "IntegerValue"
+          },
+          {
+            "name": "DoubleValue",
+            "type": "esriFieldTypeDouble",
+            "alias": "DoubleValue"
+          },
+          {
+            "name": "DateTime",
+            "type": "esriFieldTypeDate",
+            "alias": "DateTime",
+            "length": 8
+          },
+          {
+            "name": "Shape_Length",
+            "type": "esriFieldTypeDouble",
+            "alias": "Shape_Length"
+          }
+        ],
+        "features": [],
+        "exceededTransferLimit": false
+      },
+      "category": "",
+      "label": "Sample Input location line features (Polyline)",
+      "visible": true,
+      "required": true,
+      "featureSetMode": "draw",
+      "tooltip": "Sample Input location line features (PolyLines)",
+      "symbol": {
+        "color": [
+          79,
+          129,
+          189,
+          255
+        ],
+        "width": 5.25,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      }
+    }
+  ],
+  "outputParams": [
+    {
+      "name": "Output_Image__optional_",
+      "dataType": "GPDataFile",
+      "description": "This is the output file name which will appear as a link after completion of the script SCENZ_StackedTimeseries_BoxplotPrintout.png",
+      "defaultValue": null,
+      "category": "",
+      "label": "Output Image (optional)",
+      "visible": true,
+      "required": true,
+      "tooltip": "Output Image (optional)",
+      "ignore": false,
+      "layerInvisible": true
+    },
+    {
+      "name": "SCENZ/Line_Pixel_Charting_from_Multidim_Raster",
+      "label": "SCENZ/Line_Pixel_Charting_from_Multidim_Raster",
+      "tooltip": "SCENZ/Line_Pixel_Charting_from_Multidim_Raster",
+      "dataType": "MapServiceLayer",
+      "layerNames": [],
+      "visible": true,
+      "required": "",
+      "defaultValue": null,
+      "ignore": false,
+      "layerInvisible": false
+    }
+  ],
+  "shareResults": false,
+  "layerOrder": [
+    "Sample_Input_location_raster_or_point_features__Lines___2_"
+  ],
+  "showExportButton": false
+}

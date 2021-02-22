@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/BasemapGallery/nls/strings":{_widgetLabel:"Pagrindo \u017eem\u0117lapiai",chooseWebScene:"Pasirinkite internetin\u0119 scen\u0105",chooseWebMap:"Pasirinkite internetin\u012f \u017eem\u0117lap\u012f",_localized:{}}});

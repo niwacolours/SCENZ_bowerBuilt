@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/TimeSlider/nls/strings":{_widgetLabel:"Suwak czasu",enableTips:"Kliknij, aby wy\u015bwietli\u0107 suwak czasu.",disableTips:"Warstwy czasowe nie s\u0105 widoczne.",timeExtent:"${FROMTIME} do ${ENDTIME}",layers:"Warstwy: ",speedLabel:"Playback speed",liveData:"Dane na \u017cywo",_localized:{}}});

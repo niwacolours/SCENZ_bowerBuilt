@@ -1,0 +1,3 @@
+//>>built
+define({"dojox/form/nls/CheckedMultiSelect":{invalidMessage:"Ao menos um item deve ser selecionado.",multiSelectLabelText:"{num} item(ns) selecionado(s)",_localized:{}},"widgets/Swipe/nls/strings":{_widgetLabel:"Oscilar",swipeText:" Selecione as camadas que deseja oscilar",spyglassText:"Selecione a camada para aparecer na luneta",disableTips:"Clique para desativar a ferramenta de oscila\u00e7\u00e3o",enableTips:"Clique para ativar a ferramenta de oscila\u00e7\u00e3o",defaultLayerHolder:"Clique para selecionar",
+selectLayers:"Selecionar camadas",nItemsSelected:"camadas selecionadas",showList:"mostrar lista de camadas",hideList:"ocultar lista de camadas",_localized:{}}});

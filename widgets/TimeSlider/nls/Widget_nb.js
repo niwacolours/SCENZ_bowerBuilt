@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/TimeSlider/nls/strings":{_widgetLabel:"Tidspanorerer",enableTips:"Klikk for \u00e5 vise knapp for tidspanorering.",disableTips:"Ingen tidsbevisste lag er synlige.",timeExtent:"${FROMTIME} til ${ENDTIME}",layers:"Lag: ",speedLabel:"Avspillingshastighet",liveData:"Aktive data",_localized:{}}});

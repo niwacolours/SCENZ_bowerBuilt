@@ -1,0 +1,2 @@
+//>>built
+define({"widgets/About/nls/strings":{productVersion:"\u00dcr\u00fcn s\u00fcr\u00fcm\u00fc: ",kernelVersion:"\u00c7ekirdek s\u00fcr\u00fcm\u00fc: ",_widgetLabel:"Hakk\u0131nda",_localized:{}}});

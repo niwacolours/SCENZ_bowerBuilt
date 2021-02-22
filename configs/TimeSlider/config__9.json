@@ -1,0 +1,50 @@
+{
+  "showLabels": false,
+  "autoPlay": false,
+  "loopPlay": false,
+  "timeFormat": "auto",
+  "isHonorWebMap": true,
+  "customDateFormat": "",
+  "customLayersConfig": [
+    {
+      "id": "OceanParameters_All_ref_2161",
+      "isTimeEnable": true
+    },
+    {
+      "id": "OceanParameters_All_ref_2161_2220",
+      "isTimeEnable": true
+    }
+  ],
+  "customTimeConfig": {
+    "keepValueFlag": false,
+    "startTime": {
+      "timeConfig": {
+        "keepValueFlag": false,
+        "timeMode": "min",
+        "time": 1025481600000,
+        "calender": {
+          "operator": "",
+          "number": "",
+          "unit": ""
+        }
+      }
+    },
+    "endTime": {
+      "timeConfig": {
+        "keepValueFlag": false,
+        "timeMode": "max",
+        "time": 1551398400000,
+        "calender": {
+          "operator": "",
+          "number": "",
+          "unit": ""
+        }
+      }
+    },
+    "interval": {
+      "number": 2,
+      "units": "esriTimeUnitsYears"
+    },
+    "displayAllData": false
+  }
+}

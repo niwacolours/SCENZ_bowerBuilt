@@ -1,0 +1,2 @@
+//>>built
+define({"themes/FoldableTheme/widgets/HeaderController/nls/strings":{_widgetLabel:"Header-controller",signin:"Sign in",signout:"Log ud",about:"Om",signInTo:"Log ind p\u00e5",cantSignOutTip:"Denne funktion er ikke relevant i forh\u00e5ndsvisningen.",more:"mere",_localized:{}}});
